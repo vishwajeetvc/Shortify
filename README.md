@@ -1,2 +1,3 @@
 # A Service that short your big urls.
-- Create in MERN Stack.
+- Created in MERN Stack.
+- Created By Vishwajeet Kumar.
